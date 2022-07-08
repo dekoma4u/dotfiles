@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ugoo.f.ezekoma@gmail.com
+	name = Ugoo Ezekoma
